@@ -1,0 +1,6 @@
+Movie - "Free Guy",
+Series - "Ted Lasso",
+Meal - pizza,
+Season - summer,
+Country - Netherlands
+
